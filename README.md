@@ -37,13 +37,13 @@ Selected work from this GitHub — where strategy meets implementation:
 
 ## ⚙️ Tech I Work With
 
-**Languages & ML** — Python, R, Jupyter, cuDF, cuML, XGBoost <br />
+**Languages & ML**: Python, R, Jupyter, cuDF, cuML, XGBoost <br />
 
-**Agentic AI** — LLM orchestration, multi-agent systems, Gemini multimodal <br />
+**Agentic AI**: LLM orchestration, multi-agent systems, Gemini multimodal <br />
 
-**Cloud & Infra** — Google Cloud (GKE), NVIDIA NIM & AI Enterprise, Kubernetes, Helm <br />
+**Cloud & Infra**: Google Cloud (GKE), NVIDIA NIM & AI Enterprise, Kubernetes, Helm <br />
 
-**Web & Product** — Vercel, Cloudflare, Carrd, GitHub, beehiiv <br />
+**Web & Product**: Vercel, Cloudflare, Carrd, GitHub, beehiiv <br />
 
 ---
 
@@ -66,7 +66,7 @@ Selected work from this GitHub — where strategy meets implementation:
 
 ## 🌐 Let's Connect
 
-📧 julia.f.suzuki@gmail.com
+📧 Email: julia.f.suzuki@gmail.com
 
 ---
 
