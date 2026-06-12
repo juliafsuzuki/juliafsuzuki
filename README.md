@@ -1,4 +1,4 @@
-# Hi, I'm Julia Suzuki 👋
+# 👋 Hi - I'm Julia Suzuki 
 
 **Data & AI Leader • Wellbeing Strategist • Founder**
 
