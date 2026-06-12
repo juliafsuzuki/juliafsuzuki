@@ -38,8 +38,11 @@ Selected work from this GitHub — where strategy meets implementation:
 ## ⚙️ Tech I Work With
 
 **Languages & ML** — Python, R, Jupyter, cuDF, cuML, XGBoost
+
 **Agentic AI** — LLM orchestration, multi-agent systems, Gemini multimodal
+
 **Cloud & Infra** — Google Cloud (GKE), NVIDIA NIM & AI Enterprise, Kubernetes, Helm
+
 **Web & Product** — Vercel, Cloudflare, Carrd, GitHub, beehiiv
 
 ---
@@ -63,9 +66,7 @@ Selected work from this GitHub — where strategy meets implementation:
 
 ## 🌐 Let's Connect
 
-- 🏢 [Truly Human AI](https://trulyhumanai.com)
-- 🧠 Securely Wellbeing
-- 📧 julia.suzuki@securelywellbeing.com
+- 📧 julia.f.suzuki@gmail.com
 
 ---
 
