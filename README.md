@@ -38,11 +38,12 @@ Selected work from this GitHub — where strategy meets implementation:
 ## ⚙️ Tech I Work With
 
 **Languages & ML** — Python, R, Jupyter, cuDF, cuML, XGBoost <br />
-**Agentic AI** — LLM orchestration, multi-agent systems, Gemini multimodal
 
-**Cloud & Infra** — Google Cloud (GKE), NVIDIA NIM & AI Enterprise, Kubernetes, Helm
+**Agentic AI** — LLM orchestration, multi-agent systems, Gemini multimodal <br />
 
-**Web & Product** — Vercel, Cloudflare, Carrd, GitHub, beehiiv
+**Cloud & Infra** — Google Cloud (GKE), NVIDIA NIM & AI Enterprise, Kubernetes, Helm <br />
+
+**Web & Product** — Vercel, Cloudflare, Carrd, GitHub, beehiiv <br />
 
 ---
 
