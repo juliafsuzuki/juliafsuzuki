@@ -10,10 +10,10 @@ I am on a mission to help individuals, organizations, and communities become fut
 
 ## 🚀 What I'm Building
 
-### 🧠 Securely Wellbeing
+### 🧠 Securely Wellbeing AI
 A consultancy that helps individuals, organizations, and communities develop AI literacy, empowering and equipping them to architect their own future with AI.
 
-### 💡 Truly Human AI
+### 💃🏼 Truly Human AI
 An AI-first product company and **NVIDIA Inception Program** member, building solutions that amplify and celebrate what it means to be truly human, nurture wellbeing through creative pursuit and genuine human connection, and bring more positivity into the world.
 
 ### 🌍 Global AI Community — Bloomfield Hills Chapter Lead
